@@ -1,7 +1,10 @@
 /public
-/test
+# /tests
 /writable
 /vendor
-/system
+# /system
 
 composer.lock
+favicon.ico
+env
+.htaccess
