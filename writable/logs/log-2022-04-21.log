@@ -1,0 +1,135 @@
+CRITICAL - 2022-04-21 23:21:21 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:21:27 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:22:00 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:23:48 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:24:10 --> Use of undefined constant this - assumed 'this' (this will throw an Error in a future version of PHP)
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\Izcali\\Progr...', 9, Array)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:25:47 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:25:50 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:26:02 --> Use of undefined constant this - assumed 'this' (this will throw an Error in a future version of PHP)
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\Izcali\\Progr...', 9, Array)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:26:24 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:26:26 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:26:53 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:26:56 --> Call to undefined function App\Controllers\workdays()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:27:06 --> Use of undefined constant this - assumed 'this' (this will throw an Error in a future version of PHP)
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\Izcali\\Progr...', 9, Array)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:27:12 --> Use of undefined constant this - assumed 'this' (this will throw an Error in a future version of PHP)
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\Izcali\\Progr...', 9, Array)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:33:10 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): App\Controllers\WorkdayTest->workdays(1653109200000, 1653714000000)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:33:12 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): App\Controllers\WorkdayTest->workdays(1653109200000, 1653714000000)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:33:42 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): App\Controllers\WorkdayTest->workdays(1653109200000, 1653714000000)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:33:44 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): App\Controllers\WorkdayTest->workdays(1653109200000, 1653714000000)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:39:45 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\app\Controllers\WorkdayTest.php(9): App\Controllers\WorkdayTest->workdays(1653109200000, 1653714000000)
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-21 23:50:46 --> Too few arguments to function App\Controllers\Home::workdays(), 0 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-21 23:51:01 --> Too few arguments to function App\Controllers\Home::workdays(), 0 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,10 +1,10 @@
-/public
+# /public
 # /tests
-/writable
-/vendor
+# /writable
+# /vendor
 # /system
 
-composer.lock
-favicon.ico
-env
-.htaccess
+# composer.lock
+# favicon.ico
+# env
+# .htaccess

@@ -1,0 +1,334 @@
+CRITICAL - 2022-04-22 00:23:37 --> Call to a member function workdays() on null
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\WorkdayTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkdayTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 00:34:15 --> Too few arguments to function App\Controllers\FibonacciTest::index(), 0 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\FibonacciTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FibonacciTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 00:34:49 --> Too few arguments to function App\Controllers\FibonacciTest::index(), 0 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\FibonacciTest->index()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FibonacciTest))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:08:39 --> Too few arguments to function App\Controllers\Home::workdays(), 0 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:08:47 --> Too few arguments to function App\Controllers\Home::workdays(), 1 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('8,9')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:10:12 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '1653714000000')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:10:23 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '1653714000000')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:11:40 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('2000-01-01', '2000-01-11')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:11:49 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('8', '9')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:32:45 --> syntax error, unexpected 'class' (T_CLASS), expecting '{'
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 01:32:53 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:32:55 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:32:58 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:35:17 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:35:20 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:35:23 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:35:34 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:35:35 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:35:50 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:36:04 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:36:09 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:36:26 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:36:30 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/8...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/8...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:36:51 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/highestNum...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/highestNum...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:37:29 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/highestNum...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/highestNum...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:37:31 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/highestNum...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/highestNum...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:38:25 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/highestNum...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/highestNum...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:38:27 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/highestNum...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/highestNum...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:38:39 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/highestNum...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/highestNum...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:38:54 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/highestNum...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/highestNum...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:39:00 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:39:12 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Izcali\\Progr...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-22 01:39:18 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/fibonacci/...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/fibonacci/...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:41:00 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/fibonacci/...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/fibonacci/...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:41:06 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/fibonacci/...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/fibonacci/...')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:41:12 --> Class 'locale_get_all_variants\BaseController' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(518): include_once()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home')
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-22 01:42:37 --> Too few arguments to function App\Controllers\Home::workdays(), 0 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:42:43 --> Too few arguments to function App\Controllers\Home::workdays(), 0 passed in D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays()
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:48:49 --> Call to undefined function App\Controllers\check_locales()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '1653714000000')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:49:28 --> Call to undefined function App\Controllers\check_locales()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '1653714000000')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:49:32 --> Call to undefined function App\Controllers\check_locales()
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '1653714000000')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 01:53:00 --> Class 'App\Controllers\DateTime' not found
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '1653714000000')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 02:13:42 --> syntax error, unexpected ','
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/1...')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/1...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 02:41:08 --> syntax error, unexpected 'echo' (T_ECHO), expecting ';'
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/workdays/1...')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/workdays/1...')
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 03:18:42 --> Call to a member function diff() on string
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '28-05-2022')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-22 03:19:05 --> Call to a member function diff() on int
+#0 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(832): App\Controllers\Home->workdays('1653109200000', '28-05-2022')
+#1 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Izcali\Programas o APPs\xampp\htdocs\codeigniter-plantilla\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
